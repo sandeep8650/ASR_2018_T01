@@ -23,8 +23,8 @@ If you have already converted the files, set ```--preprocessed=True``` to skip t
 - [x] Dumping phone-wise features to a folder
 - [x] GMM training
 - [x] GMM model dumping
-- [ ] GMM evaluation
-- [ ] PER computation
+- [x] GMM evaluation
+- [x] PER computation
 
 ## Expected:
     - Implement and run train.py and test.py
